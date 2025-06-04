@@ -1,0 +1,21 @@
+# OS clutter
+.DS_Store
+Thumbs.db
+
+# Generated PDFs / site builds
+pdf/
+*.pdf
+site/
+dist/
+
+# Secrets & logs
+.env
+*.log
+
+# Python cache (if you ever add a script)
+__pycache__/
+*.pyc
+.venv/
+
+# Node modules (if you add a JS tool)
+node_modules/
